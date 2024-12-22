@@ -18,5 +18,5 @@ _Solutions and frameworks that leverage object storage for large-scale data lake
 ## Databases
 _Databases, key-value stores, or specialized tooling that rely on object storage as their persistent data layer._
 
-* [SlateDB](https://slatedb.io/) - Rust based embedded database built on object storage. RocksDB alternative.
+* [SlateDB](https://slatedb.io/) - SlateDB is an embedded storage engine built as a log-structured merge-tree. Unlike traditional LSM-tree storage engines, SlateDB writes all data to object storage.
 
