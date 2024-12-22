@@ -12,6 +12,7 @@ _A selection of tutorials, articles, talks, or other resources on using and scal
 _Solutions and frameworks that leverage object storage for large-scale data lake implementations, analytics processing, and more._
 
 [Warpstream](https://docs.warpstream.com/) - High-performance streaming analytics engine built atop object storage.
+
 [Responsive](https://www.responsive.dev/) - Responsive is an object storage based Kafka Streams implementation.
 
 ## Databases
